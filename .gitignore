@@ -1,0 +1,6 @@
+/target/
+*.class
+*.eclipse.core.resources.prefs
+*.prefs
+/.mvn/
+/.settings/
